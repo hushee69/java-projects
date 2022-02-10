@@ -8,4 +8,3 @@
 
   A small simulation of how stars evolve and the conditions under which they become black holes, the project is not completely effective
   as it doesn't take into account all the necessary conditions of the star but still provides an entertaining simulation of the star system
-  
